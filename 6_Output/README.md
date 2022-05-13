@@ -14,3 +14,6 @@
 
 5.user button is pressed and held for 2 seconds, the red LED is off
 ![image](https://user-images.githubusercontent.com/101699116/168215804-4a4d8ac8-f4b3-4c63-8a97-7562c99e0903.png)
+
+6.WIPER_SYSTEM 1
+![6](https://user-images.githubusercontent.com/101699116/168266085-2dc1f43a-4f8b-46d5-a70c-35ae3ee4cc99.png)
