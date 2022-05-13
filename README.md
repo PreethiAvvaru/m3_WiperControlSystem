@@ -36,4 +36,5 @@ m3_WiperControlSystem
 
 6.WIPER_SYSTEM 1
 
-![6](https://user-images.githubusercontent.com/101699116/168266085-2dc1f43a-4f8b-46d5-a70c-35ae3ee4cc99.png)
+![8](https://user-images.githubusercontent.com/101699116/168319407-e32aa84d-818c-49fa-a6bc-12e0255912bf.png)
+
