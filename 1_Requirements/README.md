@@ -8,8 +8,17 @@
 * The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded
 
 # STM32F407VG:
-
 * The STM32F405xx and STM32F407xx family depends on the superior execution Arm® Cortex®-M4 32-digit RISC center working at a recurrence of up to 168 MHz. The Cortex-M4 center highlights a Floating point unit (FPU) single accuracy which upholds all Arm single-accuracy information handling directions and information types. It likewise executes a full arrangement of DSP directions and a memory insurance unit (MPU) which upgrades application security. The STM32F405xx and STM32F407xx family integrates fast installed.
+
+# Xpack Packages:
+* Windows Build Tools: The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
+
+# OpenOCD:
+* Open On-Chip Debugger (OpenOCD) is a free, open-source project that aims to provide debugging, in-system programming, and boundary scan using a debug adapter. The adapter is a hardware module that provides the right signals for the target to understand.
+
+# QEMU:
+* The xPack QEMU Arm is a standalone cross-platform binary distribution of QEMU, with several extensions for Arm Cortex-M devices.
+
 
 # FEATURES OF STM32F407VG MICROCONTROLLER:
 * Adaptable static memory regulator supporting Compact Flash, SRAM, PSRAM, NOR and NAND recollections.
